@@ -11,6 +11,8 @@ This is conducted in R using the following packages:
 - ggmsa
 - ape
 
+This R code is used and meant as an example. Example fasta format input data is provided as whole genome shotgun DNA sequence data from _Sola senegalensis_ in July 2021.
+
 1. Paradis E, Schliep K (2019). “ape 5.0: an environment for modern phylogenetics and
   evolutionary analyses in R.” _Bioinformatics_, *35*, 526-528.
   doi:10.1093/bioinformatics/bty633 <https://doi.org/10.1093/bioinformatics/bty633>.
